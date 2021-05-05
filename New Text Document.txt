@@ -1,0 +1,25 @@
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+x=int(x)
+y=input("enter 2nd numbers ")
+y=int(y)
+print(("sum of two number is ")+ str (x+y))
+You sent August 25, 2020
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+y=input("enter 2nd numbers ")
+print(("sum of two number is ")+ str (x+y))
+You sent August 25, 2020
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+y=input("enter 2nd numbers ")
+print(("sum of two number is ")+(str(int(x)+int(y))))
+#Use to Modeul
+age = int(input("Enter your age :"))
+age2 = age + 1
+
+print("Your age is %d"%age)
+print("After one year your age will be %d"%age2)
